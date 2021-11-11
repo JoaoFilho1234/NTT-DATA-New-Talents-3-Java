@@ -1,4 +1,4 @@
-package br.com.blogjava.exmaven;
+package br.com.projetospringmaven.exmaven;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

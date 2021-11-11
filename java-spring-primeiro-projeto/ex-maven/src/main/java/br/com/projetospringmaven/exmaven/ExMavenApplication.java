@@ -1,13 +1,13 @@
-package br.com.blogjava.exgradle;
+package br.com.projetospringmaven.exmaven;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExGradleApplication {
+public class ExMavenApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExGradleApplication.class, args);
+		SpringApplication.run(ExMavenApplication.class, args);
 	}
 
 }
